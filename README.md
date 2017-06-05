@@ -1,2 +1,4 @@
-# conector-konducto-vindi
-#Fiz um rascunho do Plugin, mas já está funcional para facilitar a integração do sistema anti-fraude da Konducto (https://www.konduto.com/) com a VINDI (https://www.vindi.com.br/).
+# conector-konduto-vindi
+#Utilize o metodo anti-fraude da Konduto integrado com a plataforma VINDI.
+
+#O plugin conector konduto vindi Correios foi desenvolvido de maneira independente. E note que este plugin foi feito baseado na documentação da api disponivel em http://docs.konduto.com/pt/
