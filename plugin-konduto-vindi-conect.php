@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: VINDI Kondutor connect
+Plugin Name: VINDI Konduto connect
 Plugin URI: http://www.webcodelab.click/anti-fraude
 Description: A maneira mais facil de implementar o Konduto Anti Fraude para quem usa a VINDI
 Version: 1.0
