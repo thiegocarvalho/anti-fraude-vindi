@@ -13,7 +13,7 @@ License: GPLv2
 add_action('admin_menu', 'konduto_vindi_menu');
 
 function konduto_vindi_menu() {
-add_menu_page('VINDI Konduto Connect', 'VINDI Konduto Connect', 'administrator', __FILE__, 'vindi_konduto_connect_settings_page' , plugins_url('/icon.png', __FILE__) );
+add_menu_page('VINDI Konduto Connect', 'VINDI Konduto Connect', 'administrator', __FILE__, 'vindi_konduto_connect_settings_page' , plugins_url('', __FILE__) );
 	add_action( 'admin_init', 'register_vindi_konduto_connect_settings' );
 }
 
