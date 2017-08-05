@@ -11,11 +11,11 @@ Integration between Konduto and Vindi
 
 == Description ==
 
-Utilize o metodo anti-fraude da Konduto integrado com a plataforma VINDI.
+Utilize o metodo antifraude da Konduto integrado com a plataforma VINDI.
 
-O plugin conector konduto vindi Correios foi desenvolvido de maneira independente. E note que este plugin foi feito baseado na documentaÁ„o da api disponivel em http://docs.konduto.com/pt/
+O plugin foi desenvolvido de maneira independente. E note que este plugin foi feito baseado na documenta√ß√£o da api disponivel em http://docs.konduto.com/pt/
 
 = Compatibilidade =
 
-CompatÌvel com a vers„o 2.6.x e 3.0.x do WooCommerce.
+Compat√≠vel com a vers√£o 2.6.x e 3.x.x do WooCommerce.
 
